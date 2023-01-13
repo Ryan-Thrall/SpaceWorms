@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cr4O2mOcQ5Os4Ng5WBD7Dh9kbcUL+m4Sll42tNbeoEck7O+SGRsExmq3pRKvPSypOdeBT+rIYj1R0IBIipZJMg==",
+  "success": true,
+  "projectFilePath": "C:\\source\\game-dev\\SpaceWorms\\SpaceWorms\\SpaceWorms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryant\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\ryant\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
